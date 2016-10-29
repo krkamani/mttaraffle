@@ -207,6 +207,7 @@
 				TargetAttributes = {
 					7ADC34431DBB0C270037EF23 = {
 						CreatedOnToolsVersion = 8.0;
+						DevelopmentTeam = 4AU3CVG43Q;
 						ProvisioningStyle = Automatic;
 					};
 					7ADC345C1DBB0C270037EF23 = {
@@ -424,6 +425,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = 4AU3CVG43Q;
 				INFOPLIST_FILE = "MTTA Raffle/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "org.personal.MTTA-Raffle";
@@ -435,6 +437,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = 4AU3CVG43Q;
 				INFOPLIST_FILE = "MTTA Raffle/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "org.personal.MTTA-Raffle";
@@ -507,6 +510,7 @@
 				7ADC34731DBB0C270037EF23 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		7ADC34741DBB0C270037EF23 /* Build configuration list for PBXNativeTarget "MTTA RaffleTests" */ = {
 			isa = XCConfigurationList;
@@ -515,6 +519,7 @@
 				7ADC34761DBB0C270037EF23 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		7ADC34771DBB0C270037EF23 /* Build configuration list for PBXNativeTarget "MTTA RaffleUITests" */ = {
 			isa = XCConfigurationList;
@@ -523,6 +528,7 @@
 				7ADC34791DBB0C270037EF23 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
